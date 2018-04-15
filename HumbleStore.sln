@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumbleStore", "HumbleStore\HumbleStore.csproj", "{482E38E2-9515-406C-8A0C-FAAF48B57199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{830ED0DA-A331-43C1-9D80-3958A52379BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{482E38E2-9515-406C-8A0C-FAAF48B57199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482E38E2-9515-406C-8A0C-FAAF48B57199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482E38E2-9515-406C-8A0C-FAAF48B57199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482E38E2-9515-406C-8A0C-FAAF48B57199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830ED0DA-A331-43C1-9D80-3958A52379BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830ED0DA-A331-43C1-9D80-3958A52379BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830ED0DA-A331-43C1-9D80-3958A52379BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830ED0DA-A331-43C1-9D80-3958A52379BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3079D12-BC69-43DB-A570-412BEFE46CC9}
+	EndGlobalSection
+EndGlobal
